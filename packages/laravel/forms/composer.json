@@ -1,0 +1,41 @@
+{
+    "name": "rapidely/forms",
+    "description": ":package_description",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Author Name",
+            "email": "author@email.com",
+            "homepage": "http://author.com"
+        }
+    ],
+    "homepage": "https://github.com/rapidely/forms",
+    "keywords": ["Laravel", "Forms"],
+    "require": {
+        "illuminate/support": "~9"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~9.0",
+        "orchestra/testbench": "~7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rapidely\\Forms\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Rapidely\\Forms\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Rapidely\\Forms\\FormsServiceProvider"
+            ],
+            "aliases": {
+                "Forms": "Rapidely\\Forms\\Facades\\Forms"
+            }
+        }
+    }
+}
