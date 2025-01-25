@@ -1,19 +1,53 @@
 {
+    "name": "rapidely",
+    "authors": [
+        {
+            "name": "Author Name",
+            "email": "author@email.com",
+            "homepage": "http://author.com"
+        }
+    ],
     "require": {
+        "illuminate/support": "~9",
         "php": "^8.3",
         "symfony/dependency-injection": "^5.0",
         "symfony/http-kernel": "^5.0"
     },
     "require-dev": {
-        "symplify/monorepo-builder": "^11.2",
-        "jeroen-g/laravel-packager": "^2.10"
+        "../../../examples/laravelapp/vendor/phpunit/phpunit": "~9.0",
+        "jeroen-g/laravel-packager": "^2.10",
+        "orchestra/testbench": "~7",
+        "phpunit/phpunit": "~9.0",
+        "symplify/monorepo-builder": "^11.2"
     },
     "autoload": {
         "psr-4": {
+            "Rapidely\\Core\\": "packages/laravel/core/src/",
+            "Rapidely\\Forms\\": "packages/laravel/forms/src/",
             "Rapidely\\Laravel\\": "packages/laravel/src"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "Rapidely\\Core\\Tests\\": "packages/laravel/core/tests",
+            "Rapidely\\Forms\\Tests\\": "packages/laravel/forms/tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "aliases": {
+                "Core": "Rapidely\\Core\\Facades\\Core",
+                "Forms": "Rapidely\\Forms\\Facades\\Forms"
+            },
+            "providers": [
+                "Rapidely\\Core\\CoreServiceProvider",
+                "Rapidely\\Forms\\FormsServiceProvider"
+            ]
+        }
+    },
     "replace": {
+        "rapidely/core": "self.version",
+        "rapidely/forms": "self.version",
         "rapidely/laravel": "self.version"
     }
 }
