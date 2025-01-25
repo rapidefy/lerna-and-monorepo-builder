@@ -4,6 +4,9 @@
   "workspaces": [
     "packages/*"
   ],
+  "scripts": {
+    "release": "release-it"
+  },
   "dependencies": {},
   "devDependencies": {
     "lerna": "^8.1.8"
