@@ -72,17 +72,21 @@
     "repositories": {
         "rapidely/core": {
             "type": "path",
-            "url": "/Users/mamadouhadybarry/Documents/Projects/formations/lerna-and-monorepo-builder/examples/laravelapp/packages/laravel/core",
+            "url": "/Users/mamadouhadybarry/Documents/Projects/formations/lerna-and-monorepo-builder/packages/laravel/core",
             "options": {
                 "symlink": true
             }
         },
         "rapidely/forms": {
             "type": "path",
-            "url": "/Users/mamadouhadybarry/Documents/Projects/formations/lerna-and-monorepo-builder/examples/laravelapp/packages/laravel/forms",
+            "url": "/Users/mamadouhadybarry/Documents/Projects/formations/lerna-and-monorepo-builder/packages/laravel/forms",
             "options": {
                 "symlink": true
             }
+        },
+        "rapidely/form": {
+            "type": "composer",
+            "url": "https://mypackagist.test"
         }
     }
 }
