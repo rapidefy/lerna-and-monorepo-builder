@@ -1,5 +1,7 @@
 # Changelog
 
+## <small>0.0.5 (2025-01-25)</small>
+
 ## <small>0.0.4 (2025-01-25)</small>
 
 * configure split monorepo ([658a7f5](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/658a7f5))
