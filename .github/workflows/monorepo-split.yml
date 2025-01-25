@@ -22,7 +22,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
         with:
-          package_directory: 'packages/${{ matrix.package }}'
+          package_directory: 'packages/laravel/${{ matrix.package }}'
           repository_organization: 'rapidefy'
           repository_name: '${{ matrix.package }}'
 #          branch: 0.x
