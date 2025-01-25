@@ -8,7 +8,8 @@
     "toto:titi": "npx auto-changelog -p"
   },
   "github": {
-    "release": true
+    "release": true,
+    "tokenRef": "GITHUB_TOKEN"
   },
   "npm": {
     "publish": false
