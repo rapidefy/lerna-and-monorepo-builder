@@ -1,5 +1,10 @@
 # Changelog
 
+## <small>0.0.7 (2025-01-25)</small>
+
+* change app package name ([fd11ff1](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/fd11ff1))
+* update release-it config ([4e675f6](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/4e675f6))
+
 ## <small>0.0.6 (2025-01-25)</small>
 
 ## <small>0.0.5 (2025-01-25)</small>
