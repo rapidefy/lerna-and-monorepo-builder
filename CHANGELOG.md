@@ -1,5 +1,9 @@
 # Changelog
 
+## <small>0.0.9 (2025-01-25)</small>
+
+* fix github action ([3853687](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/3853687))
+
 ## <small>0.0.8 (2025-01-25)</small>
 
 * fix github action ([0737855](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/0737855))
