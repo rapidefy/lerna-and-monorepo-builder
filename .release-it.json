@@ -10,7 +10,6 @@
     ],
     "after:bump1": [
       "lerna publish from-package --yes",
-      "vendor/bin/monorepo-builder release "
     ]
   },
   "github": {
