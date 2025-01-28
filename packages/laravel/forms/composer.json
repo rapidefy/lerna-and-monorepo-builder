@@ -10,7 +10,10 @@
         }
     ],
     "homepage": "https://github.com/rapidely/forms",
-    "keywords": ["Laravel", "Forms"],
+    "keywords": [
+        "Laravel",
+        "Forms"
+    ],
     "require": {
         "illuminate/support": "~9"
     },

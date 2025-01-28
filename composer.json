@@ -46,8 +46,7 @@
         }
     },
     "replace": {
-        "rapidely/core": "self.version",
-        "rapidely/forms": "self.version",
-        "rapidely/laravel": "self.version"
+        "rapidely/core": "0.0.12",
+        "rapidely/forms": "0.0.12"
     }
 }

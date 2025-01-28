@@ -4,8 +4,14 @@
     "commitMessage": "chore: release v${version}"
   },
   "hooks": {
-    "before:init": [],
-    "toto:titi": "npx auto-changelog -p"
+    "before:init": [
+      "lerna version ${version} --no-push --no-commit --yes",
+      "composer run monorepo:set-package-version ${version}"
+    ],
+    "after:bump1": [
+      "lerna publish from-package --yes",
+      "vendor/bin/monorepo-builder release "
+    ]
   },
   "github": {
     "release": true,
