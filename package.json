@@ -1,8 +1,8 @@
 {
   "name": "rapidefy",
   "private": true,
-  "workspaces1": [
-    "packages/*"
+  "workspaces": [
+    "packages/vue/*"
   ],
   "scripts": {
     "release": "release-it"
