@@ -9,7 +9,7 @@
       "composer run monorepo:set-package-version ${version}"
     ],
     "after:bump1": [
-      "lerna publish from-package --yes",
+      "lerna publish from-package --yes"
     ]
   },
   "github": {
