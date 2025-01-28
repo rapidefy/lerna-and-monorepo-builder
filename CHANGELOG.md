@@ -1,5 +1,12 @@
 # Changelog
 
+## <small>0.0.12 (2025-01-28)</small>
+
+* open 0.1-dev ([cef1bb2](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/cef1bb2))
+* Remove monorepo-builder release from post-bump scripts ([04305f1](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/04305f1))
+* Update release-it config to fix lerna publish command ([9b46f52](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/9b46f52))
+* Update release-it config to fix lerna publish command ([1dfa3bc](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/1dfa3bc))
+
 ## <small>0.0.11 (2025-01-25)</small>
 
 * fix github action ([7323fa9](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/7323fa9))
