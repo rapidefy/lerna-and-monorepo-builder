@@ -46,7 +46,7 @@
         }
     },
     "replace": {
-        "rapidely/core": "0.0.12",
-        "rapidely/forms": "0.0.12"
+        "rapidely/core": "0.0.13",
+        "rapidely/forms": "0.0.13"
     }
 }
