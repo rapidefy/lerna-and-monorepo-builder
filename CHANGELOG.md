@@ -1,5 +1,7 @@
 # Changelog
 
+## <small>0.4.1 (2025-01-30)</small>
+
 ## 0.4.0 (2025-01-30)
 
 * fix(r-date): change input type to date ([aa35539](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/aa35539))
