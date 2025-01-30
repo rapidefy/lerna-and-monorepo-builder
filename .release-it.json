@@ -23,10 +23,9 @@
     "publish": false
   },
   "plugins": {
-    "@release-it-plugins/lerna-changelog": {
+    "@release-it/conventional-changelog": {
       "preset": "angular",
-      "infile": "CHANGELOG.md",
-      "launchEditor": true
+      "infile": "CHANGELOG.md"
     }
   }
 }
