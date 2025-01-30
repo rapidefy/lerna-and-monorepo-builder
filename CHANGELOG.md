@@ -1,5 +1,9 @@
 # Changelog
 
+## <small>0.5.1 (2025-01-30)</small>
+
+* fix(forms): update date input name attribute ([e3d0343](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/e3d0343))
+
 ## 0.5.0 (2025-01-30)
 
 * feat(forms): add name attribute to RDate input ([33b4cbd](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/33b4cbd))
