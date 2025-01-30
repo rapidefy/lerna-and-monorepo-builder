@@ -7,7 +7,7 @@
     "after:bump1": [
       "lerna publish from-package --yes"
     ],
-    "before:init": [
+    "before:bump1": [
       "lerna version --conventional-commits --yes --no-push"
     ]
   },
