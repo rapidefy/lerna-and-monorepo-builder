@@ -4,14 +4,10 @@
     "commitMessage": "chore: release v${version}"
   },
   "hooks": {
-    "before:init1": [
-      "lerna version ${version} --no-push --no-commit --yes",
-      "composer run monorepo:set-package-version ${version}"
-    ],
     "after:bump1": [
       "lerna publish from-package --yes"
     ],
-    "before:init1": [
+    "before:init2": [
       "lerna version --conventional-commits --yes --no-push"
     ]
   },
