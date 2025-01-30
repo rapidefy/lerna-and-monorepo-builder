@@ -1,3 +1,7 @@
+# Changelog
+
+## <small>0.2.1 (2025-01-30)</small>
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
