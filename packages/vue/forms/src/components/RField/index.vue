@@ -1,3 +1,5 @@
 <template>
-  <h1>RField</h1>
+  <div>
+    <input type="text" placeholder="r-field">
+  </div>
 </template>
