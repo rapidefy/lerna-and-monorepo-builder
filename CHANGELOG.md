@@ -1,29 +1,23 @@
-# Changelog
-
-## 0.2.0 (2025-01-30)
-
-* feat(forms): add RAutocomplete component ([f3f82df](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/f3f82df))
-
-## 0.1.0 (2025-01-30)
-
-* chore: switch to conventional-changelog plugin for releases ([c41043d](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/c41043d))
-* chore(config): update release-it hooks for versioning ([eec4b03](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/eec4b03))
-* chore(dependencies): downgrade multiple package versions ([b05f339](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/b05f339))
-* chore(release): downgrade forms package version to 0.0.17 ([2e94a8f](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/2e94a8f))
-* ``` ([a6035d9](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/a6035d9))
-* `feat(forms): add RTextField component` ([7eaf48b](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/7eaf48b))
-* feat(config): replace changelog plugin with lerna-changelog ([5c1d944](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/5c1d944))
-
-## <small>0.0.16 (2025-01-30)</small>
-
-* chore: Update release-it config and gitignore ([b7d7e60](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/b7d7e60))
-
-## <small>0.0.15 (2025-01-30)</small>
-
 # Change Log
 
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# [0.3.0](https://github.com/rapidefy/lerna-and-monorepo-builder/compare/v0.2.0...v0.3.0) (2025-01-30)
+
+
+### Bug Fixes
+
+* **config:** correct hook name and bump forms package version ([83f8420](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/83f8420ab0a30a561cce8ad2f283764c6e3d3006))
+
+
+### Features
+
+* **forms:** add input field to RAutocomplete component` ([06ab2e3](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/06ab2e3d3d13e9bb6fbda6a14c401c4d7da63c88))
+
+
+
+
 
 # [0.2.0](https://github.com/rapidefy/lerna-and-monorepo-builder/compare/v0.0.14...v0.2.0) (2025-01-30)
 
