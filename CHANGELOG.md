@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.1.0 (2025-01-30)
+
+* chore: switch to conventional-changelog plugin for releases ([c41043d](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/c41043d))
+* chore(config): update release-it hooks for versioning ([eec4b03](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/eec4b03))
+* chore(dependencies): downgrade multiple package versions ([b05f339](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/b05f339))
+* chore(release): downgrade forms package version to 0.0.17 ([2e94a8f](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/2e94a8f))
+* ``` ([a6035d9](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/a6035d9))
+* `feat(forms): add RTextField component` ([7eaf48b](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/7eaf48b))
+* feat(config): replace changelog plugin with lerna-changelog ([5c1d944](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/5c1d944))
+
 ## <small>0.0.16 (2025-01-30)</small>
 
 * chore: Update release-it config and gitignore ([b7d7e60](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/b7d7e60))
