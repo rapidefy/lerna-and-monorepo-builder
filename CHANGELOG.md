@@ -1,5 +1,9 @@
 # Changelog
 
+## <small>0.0.16 (2025-01-30)</small>
+
+* chore: Update release-it config and gitignore ([b7d7e60](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/b7d7e60))
+
 ## <small>0.0.15 (2025-01-30)</small>
 
 # Change Log
