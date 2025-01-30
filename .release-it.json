@@ -10,6 +10,9 @@
     ],
     "after:bump1": [
       "lerna publish from-package --yes"
+    ],
+    "before:init": [
+      "lerna version --conventional-commits --yes"
     ]
   },
   "github": {
