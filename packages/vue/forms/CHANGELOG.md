@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.6.1](https://github.com/rapidefy/lerna-and-monorepo-builder/compare/v0.6.0...v0.6.1) (2025-01-30)
+
+
+### Bug Fixes
+
+* **rselect:** update placeholder text to "select" ([729cfb5](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/729cfb5a310af3bb852c922d02313f14e582c02c))
+
+
+
+
+
 # [0.3.0](https://github.com/rapidefy/lerna-and-monorepo-builder/compare/v0.2.0...v0.3.0) (2025-01-30)
 
 

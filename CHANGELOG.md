@@ -1,49 +1,18 @@
-# Changelog
-
-## 0.6.0 (2025-01-30)
-
-* feat(forms): add data-id attribute to RDate input element ([288644a](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/288644a))
-
-## <small>0.5.2 (2025-01-30)</small>
-
-* fix(forms): correct placeholder text in RDate input ([1be4c77](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/1be4c77))
-
-## <small>0.5.1 (2025-01-30)</small>
-
-* fix(forms): update date input name attribute ([e3d0343](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/e3d0343))
-
-## 0.5.0 (2025-01-30)
-
-* feat(forms): add name attribute to RDate input ([33b4cbd](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/33b4cbd))
-
-## <small>0.4.1 (2025-01-30)</small>
-
-## 0.4.0 (2025-01-30)
-
-* fix(r-date): change input type to date ([aa35539](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/aa35539))
-* chore: release v0.2.1 ([a74eeac](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/a74eeac))
-* chore: release v0.3.0 ([2716808](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/2716808))
-* chore(config): change before:bump ([eb6c1de](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/eb6c1de))
-* chore(packages): downgrade forms package version to 0.1.0 ([d6698f0](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/d6698f0))
-* feat(forms): add RDate component ([59550db](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/59550db))
-* feat(forms): add RSelect component and update lerna version ([f5004a4](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/f5004a4))
-* v0.3.0 ([d69fcd7](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/d69fcd7))
-* revert: downgrade forms package version to 0.2.0 ([ac13220](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/ac13220))
-
-* feat(forms): add RDate component (59550db)
-* chore(packages): downgrade forms package version to 0.1.0 (d6698f0)
-* chore(config): change before:bump (eb6c1de)
-* v0.3.0 (d69fcd7)
-* feat(forms): add RSelect component and update lerna version (f5004a4)
-* revert: downgrade forms package version to 0.2.0 (ac13220)
-* Revert "Revert "v0.3.0"" (20b841d)
-* Revert "v0.3.0" (030fb62)
-* chore: release v0.2.1 (a74eeac)
-
 # Change Log
 
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [0.6.1](https://github.com/rapidefy/lerna-and-monorepo-builder/compare/v0.6.0...v0.6.1) (2025-01-30)
+
+
+### Bug Fixes
+
+* **rselect:** update placeholder text to "select" ([729cfb5](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/729cfb5a310af3bb852c922d02313f14e582c02c))
+
+
+
+
 
 # [0.3.0](https://github.com/rapidefy/lerna-and-monorepo-builder/compare/v0.2.0...v0.3.0) (2025-01-30)
 
