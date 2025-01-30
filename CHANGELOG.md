@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.6.0 (2025-01-30)
+
+* feat(forms): add data-id attribute to RDate input element ([288644a](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/288644a))
+
 ## <small>0.5.2 (2025-01-30)</small>
 
 * fix(forms): correct placeholder text in RDate input ([1be4c77](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/1be4c77))
