@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>Select</h1>
-    <input type="text" placeholder="r-select">
+    <input type="text" placeholder="select">
   </div>
 </template>
 <script setup lang="ts">
