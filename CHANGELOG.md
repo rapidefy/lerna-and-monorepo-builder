@@ -1,3 +1,15 @@
+# Changelog
+
+* feat(forms): add RDate component (59550db)
+* chore(packages): downgrade forms package version to 0.1.0 (d6698f0)
+* chore(config): change before:bump (eb6c1de)
+* v0.3.0 (d69fcd7)
+* feat(forms): add RSelect component and update lerna version (f5004a4)
+* revert: downgrade forms package version to 0.2.0 (ac13220)
+* Revert "Revert "v0.3.0"" (20b841d)
+* Revert "v0.3.0" (030fb62)
+* chore: release v0.2.1 (a74eeac)
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
