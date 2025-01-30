@@ -1,11 +1,29 @@
-# Changelog
-
-## <small>0.2.1 (2025-01-30)</small>
-
 # Change Log
 
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# [0.3.0](https://github.com/rapidefy/lerna-and-monorepo-builder/compare/v0.2.0...v0.3.0) (2025-01-30)
+
+
+### Bug Fixes
+
+* **config:** correct hook name and bump forms package version ([83f8420](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/83f8420ab0a30a561cce8ad2f283764c6e3d3006))
+
+
+### Features
+
+* **forms:** add input field to RAutocomplete component` ([06ab2e3](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/06ab2e3d3d13e9bb6fbda6a14c401c4d7da63c88))
+* **forms:** add RSelect component and update lerna version ([f5004a4](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/f5004a4d731f4c2f9945efa10e8641f2ab2e7abc))
+
+
+### Reverts
+
+* downgrade forms package version to 0.2.0 ([ac13220](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/ac1322028b888f56acc2ca87ade9ade6ccf74d39))
+
+
+
+
 
 # [0.3.0](https://github.com/rapidefy/lerna-and-monorepo-builder/compare/v0.2.0...v0.3.0) (2025-01-30)
 
