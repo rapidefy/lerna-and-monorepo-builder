@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.0 (2025-01-30)
+
+* feat(forms): add RAutocomplete component ([f3f82df](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/f3f82df))
+
 ## 0.1.0 (2025-01-30)
 
 * chore: switch to conventional-changelog plugin for releases ([c41043d](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/c41043d))
