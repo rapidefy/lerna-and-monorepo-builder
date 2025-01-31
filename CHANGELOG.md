@@ -1,5 +1,9 @@
 # Changelog
 
+## <small>0.1.1 (2025-01-31)</small>
+
+* chore(config): reset version to 0.0.0 and remove changelog ([34c5b69](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/34c5b69))
+
 ## 0.1.0 (2025-01-31)
 
 * chore: add version info to toto.json ([fa30591](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/fa30591))
