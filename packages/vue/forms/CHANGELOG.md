@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.2](https://github.com/rapidefy/lerna-and-monorepo-builder/compare/v0.4.1...v0.4.2) (2025-01-31)
+
+
+### Bug Fixes
+
+* **forms:** remove placeholder attribute from RCombobox ([6a40b59](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/6a40b59eda0beebc77537f54fc551a1a0c1d8746))
+
+
+
+
+
 ## [0.4.1](https://github.com/rapidefy/lerna-and-monorepo-builder/compare/v0.4.0...v0.4.1) (2025-01-31)
 
 
