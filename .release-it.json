@@ -24,13 +24,6 @@
     "publish": false
   },
   "plugins": {
-    "@release-it/bumper": {
-      "in": "lerna.json",
-      "out": {
-        "file": "lerna.json",
-        "path": "version"
-      }
-    },
     "@release-it/conventional-changelog": {
       "preset": "angular",
       "infile": "CHANGELOG.md"
