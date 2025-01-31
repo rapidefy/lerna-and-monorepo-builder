@@ -21,7 +21,7 @@
     "tokenRef": "GITHUB_TOKEN",
     "releaseNotes": {
       "commit": "* ${commit.message} (${sha}){ - thanks @${author.login}!}",
-      "excludeMatches": ["chore"]
+      "excludeMatches": ["rapidefy"]
     },
     "comments": {
       "submit": true
