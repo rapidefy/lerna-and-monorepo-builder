@@ -1,3 +1,11 @@
+# Changelog
+
+## <small>0.15.1 (2025-01-31)</small>
+
+* chore(lerna): update package versions for release ([a7db838](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/a7db838))
+* refactor: update release-it config for file handling ([4ebab15](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/4ebab15))
+* refactor(forms): update placeholder text in RTime component ([eebb305](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/eebb305))
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
