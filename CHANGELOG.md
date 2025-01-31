@@ -1,3 +1,10 @@
+# Changelog
+
+## <small>0.1.2 (2025-01-31)</small>
+
+* chore(lerna): update package versions for release ([acbfe28](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/acbfe28))
+* fix(forms): correct input type in RCombobox component ([bd120a8](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/bd120a8))
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
