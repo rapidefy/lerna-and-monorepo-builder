@@ -1,8 +1,7 @@
 {
   "git": {
     "requireBranch": "main",
-    "commitMessage": "chore: release v${version}",
-    "tagName": "${version}"
+    "commitMessage": "chore: release v${version}"
   },
   "hooks": {
     "after:bump1": [
@@ -29,6 +28,10 @@
         "file": "lerna.json",
         "path": "version"
       }
+    },
+    "@release-it/conventional-changelog": {
+      "preset": "angular",
+      "infile": "CHANGELOG.md"
     },
     "release-it-lerna-changelog": {
       "infile": "CHANGELOG.md",
