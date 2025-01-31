@@ -1,16 +1,24 @@
-# Changelog
-
-## 0.7.0 (2025-01-31)
-
-* feat(package.json): add @release-it/bumper devDependency ([c6895cb](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/c6895cb))
-* chore(config): switch to @release-it/conventional-changelog ([030104c](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/030104c))
-* chore(config): update release-it configuration ([42cd019](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/42cd019))
-* refactor(config): update changelog plugin key in config ([09109d6](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/09109d6))
-
 # Change Log
 
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# [0.8.0](https://github.com/rapidefy/lerna-and-monorepo-builder/compare/v0.6.1...v0.8.0) (2025-01-31)
+
+
+### Bug Fixes
+
+* **release:** ensure conventional commits in release flow ([4ce42cd](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/4ce42cd4642ce04a0be571d8b80cbaddb3392018))
+
+
+### Features
+
+* **forms:** add RTime component ([c622a5e](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/c622a5e2bb9d43b587171a285b33aa9b13d60e73))
+* **package.json:** add @release-it/bumper devDependency ([c6895cb](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/c6895cb08cf9b3cdce294b8f273e0d07590896fd))
+
+
+
+
 
 ## [0.6.1](https://github.com/rapidefy/lerna-and-monorepo-builder/compare/v0.6.0...v0.6.1) (2025-01-30)
 
