@@ -1,3 +1,10 @@
+# Changelog
+
+## <small>0.14.1 (2025-01-31)</small>
+
+* chore(lerna): update package versions for release ([5fa2d11](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/5fa2d11))
+* fix(release-it): update version source to package.json ([21cd23f](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/21cd23f))
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
