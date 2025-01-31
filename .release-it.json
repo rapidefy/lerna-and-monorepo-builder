@@ -9,11 +9,11 @@
       "lerna publish from-package --yes"
     ],
     "after:bump2": [
-      "lerna version --conventional-commits --yes --no-push"
-    ],
-    "before:init": [
-      "lerna version --conventional-commits --no-git-tag-version --no-push --yes",
+      "lerna version --conventional-commits --yes --no-push",
       "git commit -a -m \"chore(lerna): update package versions for release\""
+    ],
+    "after:bump": [
+      "lerna version --conventional-commits --no-git-tag-version --no-push --yes",
     ]
   },
   "github": {
