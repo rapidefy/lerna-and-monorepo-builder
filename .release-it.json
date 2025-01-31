@@ -30,7 +30,7 @@
         "path": "version"
       }
     },
-    "release-it-lerna-changelog": {
+    "lerna-changelog": {
       "infile": "CHANGELOG.md",
       "preset": "angular"
     }
