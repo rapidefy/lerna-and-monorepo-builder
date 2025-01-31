@@ -1,3 +1,11 @@
+# Changelog
+
+## <small>0.1.1 (2025-01-31)</small>
+
+* chore(lerna): update package versions for release ([f62a34d](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/f62a34d))
+* fix(forms): correct input name attribute in RDate component ([d2334bf](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/d2334bf))
+* fix(forms): update placeholder text in RDate component ([07c590d](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/07c590d))
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
