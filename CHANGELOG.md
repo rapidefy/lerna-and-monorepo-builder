@@ -1,3 +1,10 @@
+# Changelog
+
+## <small>0.11.1 (2025-01-31)</small>
+
+* chore(lerna): update package versions for release ([5de96c3](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/5de96c3))
+* fix(forms): correct data-id attribute in RDate component ([c7ea639](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/c7ea639))
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
