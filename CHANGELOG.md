@@ -1,3 +1,11 @@
+# Changelog
+
+## 0.17.0 (2025-01-31)
+
+* chore(lerna): update package versions for release ([1239200](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/1239200))
+* feat(forms): add RCombobox component ([42583a8](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/42583a8))
+* feat(forms): add RTextarea component ([bc93b7c](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/bc93b7c))
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
