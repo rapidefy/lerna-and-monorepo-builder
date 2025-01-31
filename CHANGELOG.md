@@ -1,3 +1,7 @@
+# Changelog
+
+* chore(lerna): disable git tagging and pushing on versioning (42549f5)
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
