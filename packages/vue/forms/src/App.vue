@@ -4,6 +4,7 @@ import FForm from '@/components/RForm/index.vue'
 
 <template>
   <div>
+    <h1>Ok</h1>
     <FForm />
   </div>
 </template>
