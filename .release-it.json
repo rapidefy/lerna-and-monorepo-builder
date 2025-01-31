@@ -25,11 +25,8 @@
   },
   "plugins": {
     "@release-it/bumper": {
-      "in": ["package.json", "lerna.json", "toto.json", "packages/vue/forms/package.json"],
-      "out": {
-        "file": "lerna.json",
-        "path": "version"
-      }
+      "in": "package.json",
+      "out": ["lerna.json", "toto.json", "packages/vue/forms/package.json"]
     },
     "@release-it/conventional-changelog": {
       "preset": "angular",
