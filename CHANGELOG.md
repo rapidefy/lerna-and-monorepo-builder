@@ -1,14 +1,33 @@
-# Changelog
-
-## <small>0.14.2 (2025-01-31)</small>
-
-* chore(lerna): update package versions for release ([22f219f](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/22f219f))
-* chore(release): update version bump configs and package version ([622d3a3](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/622d3a3))
-
 # Change Log
 
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# [0.16.0](https://github.com/rapidefy/lerna-and-monorepo-builder/compare/v0.6.1...v0.16.0) (2025-01-31)
+
+
+### Bug Fixes
+
+* **forms:** correct data-id attribute in RDate component ([c7ea639](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/c7ea639eb129768febc14270ccd4447e40e50974))
+* **forms:** update data-id attribute in RDate input tag ([2ae5c19](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/2ae5c1992ade9492519518d2dd8cf1e964b25472))
+* **forms:** update placeholder text in RField component ([d48a7e6](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/d48a7e6208ce60bfab893a70124f7c71bddc5300))
+* **release-it:** update version source to package.json ([21cd23f](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/21cd23f4346efc63b2821fad984454acc5e33fb9))
+* **release:** ensure conventional commits in release flow ([4ce42cd](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/4ce42cd4642ce04a0be571d8b80cbaddb3392018))
+* **release:** update version bump file to lerna.json ([5a81fdf](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/5a81fdf4909881b1e0b12d64a15f2b4af6193caa))
+* **version:** rollback version from 0.12.0 to 0.11.2 ([c1dfbef](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/c1dfbefda9f97a4d434df1c680145c4c4d4861be))
+
+
+### Features
+
+* **forms:** add header to App.vue ([2a51311](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/2a513117dea451de0a2da9752af78d199db2ff92))
+* **forms:** add RTime component ([c622a5e](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/c622a5e2bb9d43b587171a285b33aa9b13d60e73))
+* **forms:** update RTime input type to date ([001e7a1](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/001e7a1a69c7fca5e8a224871825ba275e29d079))
+* **package.json:** add @release-it/bumper devDependency ([c6895cb](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/c6895cb08cf9b3cdce294b8f273e0d07590896fd))
+* **release:** integrate @release-it/bumper plugin ([b6c95f7](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/b6c95f7cc3955eb3921961308afdff8fa691593e))
+
+
+
+
 
 # [0.15.0](https://github.com/rapidefy/lerna-and-monorepo-builder/compare/v0.6.1...v0.15.0) (2025-01-31)
 
