@@ -2,7 +2,7 @@
   "git": {
     "requireBranch": "main",
     "commitMessage": "chore: release v${version}",
-    "tagName": "${version}"
+    "tagName": "v${version}"
   },
   "hooks": {
     "after:bump1": [
