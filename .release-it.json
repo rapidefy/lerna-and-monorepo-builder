@@ -18,11 +18,7 @@
   },
   "github": {
     "release": true,
-    "tokenRef": "GITHUB_TOKEN",
-    "releaseNotes": {
-      "commit": "* ${commit.message} (${sha}){ - thanks @${author.login}!}",
-      "excludeMatches": ["webpro"]
-    }
+    "tokenRef": "GITHUB_TOKEN"
   },
   "npm": {
     "publish": false
