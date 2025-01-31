@@ -18,10 +18,7 @@
   },
   "github": {
     "release": true,
-    "tokenRef": "GITHUB_TOKEN",
-    "comments": {
-      "submit": true
-    }
+    "tokenRef": "GITHUB_TOKEN"
   },
   "npm": {
     "publish": false
