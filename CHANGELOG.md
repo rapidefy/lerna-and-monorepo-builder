@@ -1,3 +1,16 @@
+# Changelog
+
+## 0.9.0 (2025-01-31)
+
+* chore(lerna): update package versions for release ([927c590](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/927c590))
+* chore(release-it): add git commit step before initialization ([318ac97](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/318ac97))
+* chore(release-it): add git commit step before initialization ([2c00c57](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/2c00c57))
+* chore(release-it): add git commit step before initialization ([28ba9d8](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/28ba9d8))
+* chore(release-it): add git commit step before initialization ([29d36f0](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/29d36f0))
+* fix(release): ensure conventional commits in release flow ([4ce42cd](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/4ce42cd))
+* feat(forms): add RTime component ([c622a5e](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/c622a5e))
+* `fix(forms): update placeholder text in RField component` ([e127a58](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/e127a58))
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
