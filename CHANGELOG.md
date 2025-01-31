@@ -1,3 +1,12 @@
+# Changelog
+
+## 0.15.0 (2025-01-31)
+
+* chore: add version info to toto.json ([fa30591](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/fa30591))
+* chore(lerna): update package versions for release ([687324c](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/687324c))
+* chore(release): update config to include new toto.json file ([896f7ad](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/896f7ad))
+* feat(forms): add header to App.vue ([2a51311](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/2a51311))
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
