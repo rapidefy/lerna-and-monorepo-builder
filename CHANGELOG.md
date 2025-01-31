@@ -1,3 +1,12 @@
+# Changelog
+
+## <small>0.11.2 (2025-01-31)</small>
+
+* chore(forms): bump package version to 0.11.1 ([27a1c5a](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/27a1c5a))
+* chore(lerna): update package versions for release ([a27761b](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/a27761b))
+* chore(release-it): remove bumper plugin configuration ([4a20d17](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/4a20d17))
+* fix(forms): update placeholder text in RField component ([d48a7e6](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/d48a7e6))
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
