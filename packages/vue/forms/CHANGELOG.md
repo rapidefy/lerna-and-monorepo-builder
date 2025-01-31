@@ -24,6 +24,27 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+# [0.15.0](https://github.com/rapidefy/lerna-and-monorepo-builder/compare/v0.6.1...v0.15.0) (2025-01-31)
+
+
+### Bug Fixes
+
+* **forms:** correct data-id attribute in RDate component ([c7ea639](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/c7ea639eb129768febc14270ccd4447e40e50974))
+* **forms:** update data-id attribute in RDate input tag ([2ae5c19](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/2ae5c1992ade9492519518d2dd8cf1e964b25472))
+* **forms:** update placeholder text in RField component ([d48a7e6](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/d48a7e6208ce60bfab893a70124f7c71bddc5300))
+* **release-it:** update version source to package.json ([21cd23f](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/21cd23f4346efc63b2821fad984454acc5e33fb9))
+* **version:** rollback version from 0.12.0 to 0.11.2 ([c1dfbef](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/c1dfbefda9f97a4d434df1c680145c4c4d4861be))
+
+
+### Features
+
+* **forms:** add RTime component ([c622a5e](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/c622a5e2bb9d43b587171a285b33aa9b13d60e73))
+* **forms:** update RTime input type to date ([001e7a1](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/001e7a1a69c7fca5e8a224871825ba275e29d079))
+
+
+
+
+
 # [0.13.0](https://github.com/rapidefy/lerna-and-monorepo-builder/compare/v0.6.1...v0.13.0) (2025-01-31)
 
 
