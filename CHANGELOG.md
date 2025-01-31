@@ -1,3 +1,11 @@
+# Changelog
+
+## 0.16.0 (2025-01-31)
+
+* chore(forms): remove CHANGELOG.md file ([c12a84a](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/c12a84a))
+* chore(lerna): update package versions for release ([b8fb5e9](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/b8fb5e9))
+* feat(forms): add RSlider component ([cd4b7e3](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/cd4b7e3))
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
