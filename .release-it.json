@@ -12,7 +12,8 @@
       "lerna version --conventional-commits --yes --no-push"
     ],
     "before:init": [
-      "lerna version --conventional-commits --no-git-tag-version --no-push --yes"
+      "lerna version --conventional-commits --no-git-tag-version --no-push --yes",
+      "git commit -m 'chore(lerna): update package versions for release'"
     ]
   },
   "github": {
