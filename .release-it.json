@@ -25,7 +25,7 @@
   },
   "plugins": {
     "@release-it/bumper": {
-      "in": ["package.json", "lerna.json", "packages/vue/forms/package.json"],
+      "in": ["package.json", "lerna.json", "toto.json", "packages/vue/forms/package.json"],
       "out": {
         "file": "lerna.json",
         "path": "version"
