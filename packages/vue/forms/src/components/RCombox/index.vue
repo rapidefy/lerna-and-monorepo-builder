@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>RCombobox</h1>
-    <input type="text" placeholder="select">
+    <input type="r-combobox" placeholder="select">
   </div>
 </template>
 <script setup lang="ts">
