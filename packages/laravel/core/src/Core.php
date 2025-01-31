@@ -8,4 +8,8 @@ class Core
     {
       dd("Ceci est un test")
     }
+
+    public function getRequest() {
+      return "get-request";
+    }
 }
