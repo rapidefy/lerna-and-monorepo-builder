@@ -13,7 +13,7 @@
     ],
     "before:init": [
       "lerna version --conventional-commits --no-git-tag-version --no-push --yes",
-      "git commit -m -a \"chore(lerna): update package versions for release\""
+      "git commit -a -m \"chore(lerna): update package versions for release\""
     ]
   },
   "github": {
