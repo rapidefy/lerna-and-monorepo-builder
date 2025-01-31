@@ -12,6 +12,7 @@
   },
   "devDependencies": {
     "@release-it-plugins/lerna-changelog": "^7.0.0",
+    "@release-it/bumper": "^7.0.1",
     "gh": "^2.8.9",
     "lerna": "^8.1.8",
     "release-it": "^18.1.2"
