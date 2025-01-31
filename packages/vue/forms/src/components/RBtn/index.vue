@@ -5,13 +5,17 @@ const props = defineProps({
     type: String,
     default: () => null,
     required: true,
+  },
+  color: {
+    type: String,
+    default: () => 'primary',
   }
 })
 </script>
 
 <template>
   <div>
-    <v-btn>{{ text }}</v-btn>
+    <v-btn :color="color">{{ text }}</v-btn>
   </div>
 </template>
 
