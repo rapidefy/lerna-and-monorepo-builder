@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.6.0 (2025-01-31)
+
+* feat(core): add getRequest method to Core class ([c75c664](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/c75c664))
+* feat(core): add tester method for debugging ([d93b4a9](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/d93b4a9))
+
 ## 0.5.0 (2025-01-31)
 
 * feat(forms): add RFooter component ([f669961](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/f669961))
