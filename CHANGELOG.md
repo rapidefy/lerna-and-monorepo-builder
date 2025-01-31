@@ -1,5 +1,9 @@
 # Changelog
 
+## <small>0.2.5 (2025-01-31)</small>
+
+* chore(release-it): update bump lifecycle hook configuration ([a0b97d8](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/a0b97d8))
+
 ## <small>0.2.4 (2025-01-31)</small>
 
 * chore: enhance GitHub release notes configuration ([b4a9c0e](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/b4a9c0e))
