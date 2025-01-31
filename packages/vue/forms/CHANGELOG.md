@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/rapidefy/lerna-and-monorepo-builder/compare/v0.4.2...v0.5.0) (2025-01-31)
+
+
+### Features
+
+* **forms:** add RFooter component ([f669961](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/f6699616df50602f7a3074cf0ab183b16c819b1a))
+* **forms:** add RFooter component ([175e966](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/175e966dbdb9bcf24f44b683ce97108e9afe8855))
+
+
+
+
+
 ## [0.4.2](https://github.com/rapidefy/lerna-and-monorepo-builder/compare/v0.4.1...v0.4.2) (2025-01-31)
 
 
