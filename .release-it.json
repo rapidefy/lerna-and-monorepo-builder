@@ -13,7 +13,7 @@
       "git commit -a -m \"chore(lerna): update package versions for release\""
     ],
     "after:bump": [
-      "lerna version --conventional-commits --no-git-tag-version --no-push --yes",
+      "lerna version --conventional-commits --no-git-tag-version --no-push --yes"
     ]
   },
   "github": {
