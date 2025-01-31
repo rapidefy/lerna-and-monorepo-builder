@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.1](https://github.com/rapidefy/lerna-and-monorepo-builder/compare/v0.4.0...v0.4.1) (2025-01-31)
+
+
+### Bug Fixes
+
+* **forms:** correct input type in RCombobox component ([9a14ccb](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/9a14ccb939c2cd7cb0768dff93f08b4d4b27ebce))
+
+
+
+
+
 # 0.4.0 (2025-01-31)
 
 
