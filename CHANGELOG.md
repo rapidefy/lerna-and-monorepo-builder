@@ -1,20 +1,25 @@
-# Changelog
-
-## 0.9.0 (2025-01-31)
-
-* chore(lerna): update package versions for release ([927c590](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/927c590))
-* chore(release-it): add git commit step before initialization ([318ac97](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/318ac97))
-* chore(release-it): add git commit step before initialization ([2c00c57](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/2c00c57))
-* chore(release-it): add git commit step before initialization ([28ba9d8](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/28ba9d8))
-* chore(release-it): add git commit step before initialization ([29d36f0](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/29d36f0))
-* fix(release): ensure conventional commits in release flow ([4ce42cd](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/4ce42cd))
-* feat(forms): add RTime component ([c622a5e](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/c622a5e))
-* `fix(forms): update placeholder text in RField component` ([e127a58](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/e127a58))
-
 # Change Log
 
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# [0.10.0](https://github.com/rapidefy/lerna-and-monorepo-builder/compare/v0.6.1...v0.10.0) (2025-01-31)
+
+
+### Bug Fixes
+
+* **forms:** update data-id attribute in RDate input tag ([2ae5c19](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/2ae5c1992ade9492519518d2dd8cf1e964b25472))
+* **release:** ensure conventional commits in release flow ([4ce42cd](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/4ce42cd4642ce04a0be571d8b80cbaddb3392018))
+
+
+### Features
+
+* **forms:** add RTime component ([c622a5e](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/c622a5e2bb9d43b587171a285b33aa9b13d60e73))
+* **package.json:** add @release-it/bumper devDependency ([c6895cb](https://github.com/rapidefy/lerna-and-monorepo-builder/commit/c6895cb08cf9b3cdce294b8f273e0d07590896fd))
+
+
+
+
 
 # [0.8.0](https://github.com/rapidefy/lerna-and-monorepo-builder/compare/v0.6.1...v0.8.0) (2025-01-31)
 
